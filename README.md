@@ -44,7 +44,7 @@ Extracted Text      Entity List              Summary Text
 ### 1. Clone & install
 
 ```bash
-git clone <your-repo>
+git clone https://github.com/Tejakumar02/nlp-pipeline.git
 cd nlp-pipeline
 pip install -r requirements.txt
 ```
