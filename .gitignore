@@ -1,0 +1,26 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+
+.env
+*.log
+
+.venv/
+venv/
+env/
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+# HuggingFace models (large)
+.cache/
+
+# Paddle OCR models
+~/.paddleocr/
+
+# macOS
+.DS_Store

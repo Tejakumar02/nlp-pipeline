@@ -1,0 +1,702 @@
+{
+  "document_id": "8d69536e-cf3d-40ac-8621-f8e4bac50a64",
+  "total_processing_time_ms": 22347.4,
+  "stages_executed": [
+    "ocr",
+    "ner",
+    "summarization"
+  ],
+  "ocr": {
+    "success": true,
+    "data": {
+      "text": "1.Introduction\ntacsa loss of more than four illion dollars was reported.To avoid\nths and to educe the mpact of this problem intelligent phishing\nnumber of connected people is proliferating Like any other domain, an.\nSir.ce phishing webs.tes are harmful. different organizations have\ninternet connection has many drawback:. Service producers need help.\nproposed many techniques 21. To cite some, Google proposed a\nto conserve their client privacy against hackers and scammers. Ph.shing\nblocklist ta collerts reported phshing websites and blocks them in its\nwebsites are considered the best technique for attackers to collect users\nbrowser Chrome [3].Other techniques based on browser extensions and\nprvate infornation, such as credit card information, usename, and\noolbars were proposed to detect and block phishing websites [4].\npasswords, by pretending that it is a legiumate website This type of\nMoreover.Panda orporatior. [5] and McAfee 6] have added an anti\nattack is becoming an increasingly severe threat to intenet users.Recent\nphishing package to their antivirus software. Moreover, many solu-\nresearch from the RSA Fraud and Risk Intelligence team 1] repored\ntons were proposed to elevate the detection efficiency and to handle\n46.821 giobal cyber-attacks in the second quarter of 2020.Phishing is\nnew terhniques. Arifirial intelligence Al) based methods have ach\nthe most dominant attack,with 43 % of the total attacks.Due to phishing\nieved great success compared to other ways,such as blocklisting and\nCorresponding author.\nE ma addresses Yahia.said@nbu.cdu.sa Y.Sad.aalshe/khygnb.edu.saA.A.Aisheikhy).h.ahza@kau.cdu sa (H.Lahzatshawly@kau edu.sa T.Shawty.\nhps//doorg/10.1016/asej.2024.102643\nReccived 15 October 2023:Receved in revised farm 6 December 2023Acceped 30 ecenbe2C23\nAvailable online 22 January 2024\n2090-4<79/C 2024 Thc Authors>.Published by Elsevier BV on behalf of Faculy o Engeer.ng Ain Shars lnivesiy.This is an open access article under the\nCC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nc/4 O/",
+      "confidence": 0.9212,
+      "engine_used": "paddle",
+      "word_count": 282,
+      "char_count": 2040,
+      "language_detected": null,
+      "processing_time_ms": 21235.61,
+      "bounding_boxes": [
+        {
+          "text": "1.Introduction",
+          "confidence": 0.99,
+          "bbox": [
+            [
+              25,
+              53
+            ],
+            [
+              158,
+              50
+            ],
+            [
+              159,
+              70
+            ],
+            [
+              26,
+              73
+            ]
+          ]
+        },
+        {
+          "text": "tacsa loss of more than four illion dollars was reported.To avoid",
+          "confidence": 0.876,
+          "bbox": [
+            [
+              628,
+              46
+            ],
+            [
+              1188,
+              41
+            ],
+            [
+              1188,
+              63
+            ],
+            [
+              628,
+              69
+            ]
+          ]
+        },
+        {
+          "text": "ths and to educe the mpact of this problem intelligent phishing",
+          "confidence": 0.9181,
+          "bbox": [
+            [
+              627,
+              70
+            ],
+            [
+              1191,
+              65
+            ],
+            [
+              1191,
+              87
+            ],
+            [
+              627,
+              93
+            ]
+          ]
+        },
+        {
+          "text": "number of connected people is proliferating Like any other domain, an.",
+          "confidence": 0.9698,
+          "bbox": [
+            [
+              21,
+              118
+            ],
+            [
+              593,
+              115
+            ],
+            [
+              593,
+              142
+            ],
+            [
+              21,
+              144
+            ]
+          ]
+        },
+        {
+          "text": "Sir.ce phishing webs.tes are harmful. different organizations have",
+          "confidence": 0.9307,
+          "bbox": [
+            [
+              652,
+              115
+            ],
+            [
+              1193,
+              107
+            ],
+            [
+              1193,
+              134
+            ],
+            [
+              652,
+              142
+            ]
+          ]
+        },
+        {
+          "text": "internet connection has many drawback:. Service producers need help.",
+          "confidence": 0.9831,
+          "bbox": [
+            [
+              21,
+              140
+            ],
+            [
+              593,
+              139
+            ],
+            [
+              593,
+              165
+            ],
+            [
+              21,
+              167
+            ]
+          ]
+        },
+        {
+          "text": "proposed many techniques 21. To cite some, Google proposed a",
+          "confidence": 0.8886,
+          "bbox": [
+            [
+              627,
+              142
+            ],
+            [
+              1196,
+              132
+            ],
+            [
+              1196,
+              155
+            ],
+            [
+              627,
+              164
+            ]
+          ]
+        },
+        {
+          "text": "to conserve their client privacy against hackers and scammers. Ph.shing",
+          "confidence": 0.9288,
+          "bbox": [
+            [
+              23,
+              167
+            ],
+            [
+              592,
+              164
+            ],
+            [
+              592,
+              187
+            ],
+            [
+              23,
+              189
+            ]
+          ]
+        },
+        {
+          "text": "blocklist ta collerts reported phshing websites and blocks them in its",
+          "confidence": 0.9106,
+          "bbox": [
+            [
+              627,
+              164
+            ],
+            [
+              1197,
+              153
+            ],
+            [
+              1197,
+              176
+            ],
+            [
+              627,
+              187
+            ]
+          ]
+        },
+        {
+          "text": "websites are considered the best technique for attackers to collect users",
+          "confidence": 0.9526,
+          "bbox": [
+            [
+              23,
+              191
+            ],
+            [
+              589,
+              185
+            ],
+            [
+              589,
+              208
+            ],
+            [
+              23,
+              213
+            ]
+          ]
+        },
+        {
+          "text": "browser Chrome [3].Other techniques based on browser extensions and",
+          "confidence": 0.9149,
+          "bbox": [
+            [
+              627,
+              187
+            ],
+            [
+              1197,
+              177
+            ],
+            [
+              1197,
+              200
+            ],
+            [
+              627,
+              209
+            ]
+          ]
+        },
+        {
+          "text": "prvate infornation, such as credit card information, usename, and",
+          "confidence": 0.9072,
+          "bbox": [
+            [
+              23,
+              214
+            ],
+            [
+              592,
+              209
+            ],
+            [
+              592,
+              232
+            ],
+            [
+              23,
+              237
+            ]
+          ]
+        },
+        {
+          "text": "oolbars were proposed to detect and block phishing websites [4].",
+          "confidence": 0.9076,
+          "bbox": [
+            [
+              625,
+              211
+            ],
+            [
+              1196,
+              200
+            ],
+            [
+              1196,
+              222
+            ],
+            [
+              626,
+              233
+            ]
+          ]
+        },
+        {
+          "text": "passwords, by pretending that it is a legiumate website This type of",
+          "confidence": 0.9277,
+          "bbox": [
+            [
+              21,
+              238
+            ],
+            [
+              595,
+              233
+            ],
+            [
+              595,
+              255
+            ],
+            [
+              21,
+              261
+            ]
+          ]
+        },
+        {
+          "text": "Moreover.Panda orporatior. [5] and McAfee 6] have added an anti",
+          "confidence": 0.8791,
+          "bbox": [
+            [
+              628,
+              234
+            ],
+            [
+              1196,
+              225
+            ],
+            [
+              1196,
+              243
+            ],
+            [
+              628,
+              253
+            ]
+          ]
+        },
+        {
+          "text": "attack is becoming an increasingly severe threat to intenet users.Recent",
+          "confidence": 0.9504,
+          "bbox": [
+            [
+              23,
+              261
+            ],
+            [
+              592,
+              257
+            ],
+            [
+              592,
+              279
+            ],
+            [
+              23,
+              283
+            ]
+          ]
+        },
+        {
+          "text": "phishing package to their antivirus software. Moreover, many solu-",
+          "confidence": 0.9078,
+          "bbox": [
+            [
+              627,
+              257
+            ],
+            [
+              1197,
+              247
+            ],
+            [
+              1197,
+              270
+            ],
+            [
+              627,
+              279
+            ]
+          ]
+        },
+        {
+          "text": "research from the RSA Fraud and Risk Intelligence team 1] repored",
+          "confidence": 0.9503,
+          "bbox": [
+            [
+              23,
+              283
+            ],
+            [
+              593,
+              279
+            ],
+            [
+              593,
+              302
+            ],
+            [
+              23,
+              306
+            ]
+          ]
+        },
+        {
+          "text": "tons were proposed to elevate the detection efficiency and to handle",
+          "confidence": 0.933,
+          "bbox": [
+            [
+              627,
+              281
+            ],
+            [
+              1200,
+              270
+            ],
+            [
+              1200,
+              291
+            ],
+            [
+              627,
+              302
+            ]
+          ]
+        },
+        {
+          "text": "46.821 giobal cyber-attacks in the second quarter of 2020.Phishing is",
+          "confidence": 0.9504,
+          "bbox": [
+            [
+              23,
+              308
+            ],
+            [
+              593,
+              303
+            ],
+            [
+              593,
+              324
+            ],
+            [
+              23,
+              330
+            ]
+          ]
+        },
+        {
+          "text": "new terhniques. Arifirial intelligence Al) based methods have ach",
+          "confidence": 0.9245,
+          "bbox": [
+            [
+              628,
+              304
+            ],
+            [
+              1196,
+              295
+            ],
+            [
+              1196,
+              314
+            ],
+            [
+              628,
+              323
+            ]
+          ]
+        },
+        {
+          "text": "the most dominant attack,with 43 % of the total attacks.Due to phishing",
+          "confidence": 0.9267,
+          "bbox": [
+            [
+              24,
+              334
+            ],
+            [
+              593,
+              330
+            ],
+            [
+              593,
+              348
+            ],
+            [
+              24,
+              352
+            ]
+          ]
+        },
+        {
+          "text": "ieved great success compared to other ways,such as blocklisting and",
+          "confidence": 0.9521,
+          "bbox": [
+            [
+              627,
+              327
+            ],
+            [
+              1201,
+              319
+            ],
+            [
+              1201,
+              340
+            ],
+            [
+              627,
+              348
+            ]
+          ]
+        },
+        {
+          "text": "Corresponding author.",
+          "confidence": 0.9695,
+          "bbox": [
+            [
+              36,
+              416
+            ],
+            [
+              211,
+              416
+            ],
+            [
+              211,
+              434
+            ],
+            [
+              36,
+              434
+            ]
+          ]
+        },
+        {
+          "text": "E ma addresses Yahia.said@nbu.cdu.sa Y.Sad.aalshe/khygnb.edu.saA.A.Aisheikhy).h.ahza@kau.cdu sa (H.Lahzatshawly@kau edu.sa T.Shawty.",
+          "confidence": 0.8411,
+          "bbox": [
+            [
+              47,
+              437
+            ],
+            [
+              1199,
+              423
+            ],
+            [
+              1199,
+              445
+            ],
+            [
+              47,
+              458
+            ]
+          ]
+        },
+        {
+          "text": "hps//doorg/10.1016/asej.2024.102643",
+          "confidence": 0.892,
+          "bbox": [
+            [
+              21,
+              477
+            ],
+            [
+              348,
+              471
+            ],
+            [
+              348,
+              492
+            ],
+            [
+              22,
+              498
+            ]
+          ]
+        },
+        {
+          "text": "Reccived 15 October 2023:Receved in revised farm 6 December 2023Acceped 30 ecenbe2C23",
+          "confidence": 0.871,
+          "bbox": [
+            [
+              21,
+              498
+            ],
+            [
+              761,
+              488
+            ],
+            [
+              761,
+              509
+            ],
+            [
+              22,
+              519
+            ]
+          ]
+        },
+        {
+          "text": "Available online 22 January 2024",
+          "confidence": 0.9311,
+          "bbox": [
+            [
+              23,
+              519
+            ],
+            [
+              267,
+              517
+            ],
+            [
+              267,
+              536
+            ],
+            [
+              23,
+              537
+            ]
+          ]
+        },
+        {
+          "text": "2090-4<79/C 2024 Thc Authors>.Published by Elsevier BV on behalf of Faculy o Engeer.ng Ain Shars lnivesiy.This is an open access article under the",
+          "confidence": 0.8698,
+          "bbox": [
+            [
+              21,
+              539
+            ],
+            [
+              1213,
+              527
+            ],
+            [
+              1213,
+              549
+            ],
+            [
+              21,
+              561
+            ]
+          ]
+        },
+        {
+          "text": "CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nc/4 O/",
+          "confidence": 0.8824,
+          "bbox": [
+            [
+              21,
+              561
+            ],
+            [
+              585,
+              556
+            ],
+            [
+              585,
+              578
+            ],
+            [
+              21,
+              584
+            ]
+          ]
+        }
+      ]
+    },
+    "error": null,
+    "processing_time_ms": 21665.27
+  },
+  "ner": {
+    "success": false,
+    "data": null,
+    "error": "Could not load NER model 'dslim/bert-base-NER': [WinError 127] The specified procedure could not be found. Error loading \"D:\\nlp-pipeline\\.venv\\lib\\site-packages\\torch\\lib\\shm.dll\" or one of its dependencies.",
+    "processing_time_ms": 643.78
+  },
+  "summarization": {
+    "success": false,
+    "data": null,
+    "error": "Could not load model 'facebook/bart-large-cnn': [WinError 127] The specified procedure could not be found. Error loading \"D:\\nlp-pipeline\\.venv\\lib\\site-packages\\torch\\lib\\shm.dll\" or one of its dependencies.",
+    "processing_time_ms": 36.85
+  },
+  "metadata": {
+    "filename": "Ima.jpg",
+    "file_size": 306397,
+    "language": "en"
+  }
+}

@@ -1,0 +1,25 @@
+netsh winsock reset
+netsh int ip reset
+ipconfig /flushdns
+ipconfig /release
+ipconfig /renew
+
+linkedin.com/in/teja-kumar-g-s- 
+
+https://github.com/Tejakumar02
+
+https://tejakumar02.github.io/Portfolio/
+
+
+
+https://www.linkedin.com/in/teja-kumar-g-s-373b6733a/
+
+
+Delivered and deployed an AI-based SOP enforcement system for Ashok Leyland gearbox assembly line; optimized camera placement to eliminate guard occlusion, significantly improving real-time detection reliability in a live manufacturing setup.
+
+
+ I am a Computer Vision engineer with hands-on experience building and deploying real-time AI systems in industrial environments. I have worked extensively with Python, YOLO-based object detection, and OpenCV to develop reliable vision solutions for production lines.
+
+I trained custom object detection models on over 17K images (90K+ instances), achieving high detection accuracy (mAP50 of 0.98) on real-world manufacturing data. My experience includes dataset curation, annotation using CVAT, data augmentation, and designing validation logic such as centroid-based spatial checks and temporal smoothing to ensure accurate multi-step process validation.
+
+I have also integrated real-time inference pipelines into a Flask-based dashboard, supporting live monitoring at 13+ iterations per second in a production setting

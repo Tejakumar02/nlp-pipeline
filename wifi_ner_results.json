@@ -1,0 +1,105 @@
+{
+  "entities": [
+    {
+      "text": "AI",
+      "label": "MISC",
+      "score": 0.9881,
+      "start": 285,
+      "end": 287,
+      "normalized": "AI"
+    },
+    {
+      "text": "Ashok Leyland",
+      "label": "ORG",
+      "score": 0.9854,
+      "start": 321,
+      "end": 334,
+      "normalized": "Ashok Leyland"
+    },
+    {
+      "text": "Python",
+      "label": "MISC",
+      "score": 0.9921,
+      "start": 665,
+      "end": 671,
+      "normalized": "Python"
+    },
+    {
+      "text": "Y",
+      "label": "MISC",
+      "score": 0.9806,
+      "start": 673,
+      "end": 674,
+      "normalized": "Y"
+    },
+    {
+      "text": "F",
+      "label": "MISC",
+      "score": 0.9956,
+      "start": 1221,
+      "end": 1222,
+      "normalized": "F"
+    }
+  ],
+  "entity_groups": {
+    "MISC": {
+      "label": "MISC",
+      "entities": [
+        {
+          "text": "AI",
+          "label": "MISC",
+          "score": 0.9881,
+          "start": 285,
+          "end": 287,
+          "normalized": "AI"
+        },
+        {
+          "text": "Python",
+          "label": "MISC",
+          "score": 0.9921,
+          "start": 665,
+          "end": 671,
+          "normalized": "Python"
+        },
+        {
+          "text": "Y",
+          "label": "MISC",
+          "score": 0.9806,
+          "start": 673,
+          "end": 674,
+          "normalized": "Y"
+        },
+        {
+          "text": "F",
+          "label": "MISC",
+          "score": 0.9956,
+          "start": 1221,
+          "end": 1222,
+          "normalized": "F"
+        }
+      ],
+      "count": 4
+    },
+    "ORG": {
+      "label": "ORG",
+      "entities": [
+        {
+          "text": "Ashok Leyland",
+          "label": "ORG",
+          "score": 0.9854,
+          "start": 321,
+          "end": 334,
+          "normalized": "Ashok Leyland"
+        }
+      ],
+      "count": 1
+    }
+  },
+  "entity_count": 5,
+  "unique_entity_types": [
+    "MISC",
+    "ORG"
+  ],
+  "model_used": "dslim/bert-base-NER",
+  "processing_time_ms": 504.24
+}
